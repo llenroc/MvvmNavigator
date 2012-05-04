@@ -1,0 +1,1 @@
+A simple WPF app forUI navigation using pages, using MVVM Foundation.
