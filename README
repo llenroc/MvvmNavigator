@@ -1,1 +1,1 @@
-A simple WPF app forUI navigation using pages, using MVVM Foundation.
+This is more of a template than a real app. It's purpose is to demonstrate a light-weight method for using MVVM to changes interfaces with a browser-style page navigation, that allows going backwars and forwards.
